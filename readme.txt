@@ -28,18 +28,11 @@
 None.
 
 5. Is there anything special we need to know in order to run your code?
-
-- Requires global tools:
-  - TypeScript (tsc) and Live Server
-- From project root:
-  - tsc --project tsconfig.json --watch
-  - live-server
 - Open pages:
+  - Make sure to extract zip file before opening and testing files.
   - index.html (About)
   - activities.html (Activities)
   - descriptions.html (Descriptions)
 - Notes:
   - `ts/tweet.ts` transpiles to `js/tweet.js`. Do not edit `js/tweet.js` directly.
   - Bonus: Activities page uses a single dynamic Vega-Lite chart; the button toggles between raw points and mean aggregation.
-  - Make sure to extract zip file before opening and testing files.
-
