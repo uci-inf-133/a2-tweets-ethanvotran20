@@ -21,6 +21,7 @@
   - Math.js
 - MDN references for JavaScript/RegExp and Date formatting
 - https://www.w3schools.com/typescript/
+- AI assistance with coding structure and syntax through Cursor
 
 4. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 
